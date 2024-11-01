@@ -1,1 +1,16 @@
+covid
+emoji
+fonttools
+gtts
+gingerit
+jikanpy
+phlogo
+pyfiglet
+pygments
+pyjokes
+quotefancy
+shazamio
+speechrecognition
 speedtest-cli
+textblob
+wikipedia
