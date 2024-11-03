@@ -1,8 +1,7 @@
-covid
+
 emoji
 fonttools
 gtts
-gingerit
 jikanpy
 phlogo
 pyfiglet
